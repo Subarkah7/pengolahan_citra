@@ -1,0 +1,1 @@
+warning('off', 'Images:initSize:adjustingMag');
